@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ncent/ncent-api-v2#readme",
   "dependencies": {
     "aws-cli-js": "^2.0.5",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "newman": "^4.5.1"
   }
 }
